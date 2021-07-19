@@ -1,3 +1,6 @@
+# Must use the format of this export command
+# conda env export --from-history -f environment.yml
+#
 name: environment
 channels:
   - conda-forge
